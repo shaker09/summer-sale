@@ -1,0 +1,19 @@
+/* fonts style */
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* banner part */
+.banner-container{
+    background-color: #F9F6E2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-contain{
+    text-align: center;
+}
+.banner-img{
+    width: 500px;
+    height: 500px;
+}
